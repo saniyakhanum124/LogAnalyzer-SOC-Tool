@@ -1,0 +1,4 @@
+logs/*.csv filter=lfs diff=lfs merge=lfs -text
+security_reports/*.png filter=lfs diff=lfs merge=lfs -text
+security_reports/*.csv filter=lfs diff=lfs merge=lfs -text
+security_reports/* filter=lfs diff=lfs merge=lfs -text
