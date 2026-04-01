@@ -74,10 +74,3 @@ LOGANALYZER1/
 * **Static Analysis:** Does not account for behavior-based anomalies (ML-based detection).
 
 ---
-
-> **Disclaimer:** This tool is for educational use and authorized security auditing only. Using this to monitor systems without permission is strictly prohibited.
-
----
-On your GitHub repository page, click the **"Add file"** button, select **"Create new file"**, name it `README.md`, and paste the text above. 
-
-Once you save it, your repo will look incredibly professional. Which of these two projects (the Keylogger or the SOC Tool) was your favorite to build?
